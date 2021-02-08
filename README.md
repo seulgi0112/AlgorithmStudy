@@ -31,7 +31,7 @@
 |       |   공통        |           seulgi               |        byeol                        |                 daejin        |                            sanga        | 
 |------ | :------------: | :----------------------------: | :-------------------------------: | :---------------------------: | :---------------------------------------: |
 | 1주차  | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)    |[Group the People...](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[최대상금](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD&categoryId=AV15Khn6AN0CFAYD&categoryType=CODE&problemTitle=%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0+%EC%9D%91%EC%9A%A9&orderBy=INQUERY_COUNT&selectCodeLang=ALL&select-1=&pageSize=30&pageIndex=1) |
-| 2주차  |     |              |    |        | |
+| 2주차  |     |   [더맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)         |    |        | |
 | 3주차  |     |              |    |        | |
 | 4주차  |     |              |    |        | |
 | 5주차  |     |              |    |        | |
